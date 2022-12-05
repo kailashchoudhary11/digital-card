@@ -5,9 +5,8 @@ export default function About() {
         <div id="about">
             <h2> About </h2>
             <p>
-                I am a frontend developer
-                with a particular interest in making things simple and automating daily tasks. 
-                I try to keep up with security and best practices, 
+                I am a Django Developer. I love creating websites, CLIs and solving problems on LeetCode. 
+                I try to keep up with best practices
                 and am always looking for new things to learn.
             </p>
         </div>

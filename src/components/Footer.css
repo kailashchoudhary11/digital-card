@@ -1,0 +1,14 @@
+footer {
+    width: 317px;
+    height: 64px;
+    background: #161619;
+    border-radius: 0px 0px 10px 10px;
+    margin-top: 24px;
+    padding: 20px 49px 20px 71px;
+    box-sizing: border-box;
+}
+
+.footer-img {
+    display: inline;
+    margin-right: 24px
+}

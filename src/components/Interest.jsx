@@ -1,7 +1,14 @@
 import React from "react";
+import "./Interest.css";
 
 export default function Interest() {
     return (
-      <h1>This is Interest</h1>  
+        <div id="interest">
+            <h2>Interests</h2> 
+            <p>
+                Programming, Playing Cricket and Volley Ball,
+                Riding Bike, Trekking.
+            </p> 
+        </div>
     );
 }

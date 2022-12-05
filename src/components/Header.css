@@ -7,21 +7,22 @@ header > h2 {
     line-height: 30px;
     text-align: center;
     color: #FFFFFF;
-    margin-top: 21px;
+    margin-top: 12px;
 }
 
 header > h3 {
     font-weight: 400;
     text-align: center;
     color: #F3BF99;
-    margin-top: 7px;
+    margin-top: 1px;
 }
 
 header > p {
     line-height: 150%;
     text-align: center;
     color: #F5F5F5;
-    margin-top: 9px;
+    font-size: 12px;
+    margin-top: 5px;
 }
 
 #email, #linkedin {
@@ -47,4 +48,11 @@ header > p {
 #linkedin {
     background: #5093E2;
     color: #FFFFFF;
+}
+
+a {
+    text-decoration: none;
+}
+a :hover {
+    cursor: pointer;
 }
