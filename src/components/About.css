@@ -1,0 +1,16 @@
+#about {
+    width: 247px;
+    margin-top: 33px;
+}
+
+#about > h2 {
+    height: 24px;
+    font-size: 19px;
+    color: #F5F5F5;
+}
+
+#about > p {
+    margin-top: 3px;
+    font-size: 13px;
+    color: #DCDCDC;
+}
