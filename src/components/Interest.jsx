@@ -7,7 +7,7 @@ export default function Interest() {
             <h2>Interests</h2> 
             <p>
                 Programming, Playing Cricket and Volley Ball,
-                Riding Bike, Trekking.
+                Riding Bike, Trekking
             </p> 
         </div>
     );
