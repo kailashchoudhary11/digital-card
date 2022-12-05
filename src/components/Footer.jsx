@@ -1,8 +1,8 @@
 import React from "react";
 import twitter from "../assets/twitter.png";
-import facebook from "../assets/facebook.png";
 import github from "../assets/github.png";
 import instagram from "../assets/instagram.png";
+import discord from "../assets/discord.png";
 import "./Footer.css";
 
 
@@ -15,8 +15,8 @@ function Footer() {
                 </a>
             </div>
             <div className="footer-img">
-                <a href="https://.com" target="_blank">
-                <img src={facebook} alt="Facebook" />
+                <a href="https://discordapp.com/users/kai_11#4616" target="_blank">
+                <img src={discord} alt="Discord" />
                 </a>
             </div>
             <div className="footer-img">
